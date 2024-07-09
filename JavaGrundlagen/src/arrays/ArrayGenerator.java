@@ -36,7 +36,7 @@ public class ArrayGenerator {
     }
 
 	private static int calculateSum(int[] evenRandomArray) {
-		// TODO Auto-generated method stub
+		
 		return 0;
 
            }
